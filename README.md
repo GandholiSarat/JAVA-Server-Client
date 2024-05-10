@@ -16,7 +16,7 @@ To run the Client
 
 Note: Ensure that server is running before client is started. 
 
-## Successfull run 
+## Sample run 
 Server  
 
   ![Screenshot from 2024-05-10 11-57-23](https://github.com/GandholiSarat/JAVA-Server-Client/assets/123803490/016a675b-e9fd-49a9-9c9a-93cdb6b125bd)  
