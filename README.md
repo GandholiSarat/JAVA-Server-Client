@@ -10,7 +10,7 @@ To run the Server
 
 To run the Client   
 &emsp;1. Got the client directory and run `make run` .  
-&emsp;2. Enter the Ip address of the server and port number `9442`  .
+&emsp;2. Enter the Ip address of the server and port number `9442`  .  
 &emsp;3. If you face problems in running the code build the class files again by running `make all`  .  
 &emsp;4. Repeat Step 1.  
 
