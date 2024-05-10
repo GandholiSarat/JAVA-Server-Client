@@ -1,3 +1,0 @@
-javac -cp jsoup-1.17.2.jar -d class server/fileencryption/*.java server/goodthoughts/*.java server/passwordgenerator/*.java server/internetsearch/*.java server/Server.java
-javac -cp jsoup-1.17.2.jar:json-20140107.jar -d class server/fileencryption/*.java server/goodthoughts/*.java server/passwordgenerator/*.java server/filetransfer/*.java server/internetsearch/*.java server/Server1.java server/ThreadServer1.java server/currencyconverter/*.java
-
