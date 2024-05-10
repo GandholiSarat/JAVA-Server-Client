@@ -16,5 +16,16 @@ To run the Client
 
 Note: Ensure that server is running before client is started. 
 
+## Running code
+Server  
+
+  ![Screenshot from 2024-05-10 11-57-23](https://github.com/GandholiSarat/JAVA-Server-Client/assets/123803490/016a675b-e9fd-49a9-9c9a-93cdb6b125bd)  
+
+Client  
+
+  ![Screenshot from 2024-05-10 17-23-17](https://github.com/GandholiSarat/JAVA-Server-Client/assets/123803490/be470db1-edb7-4039-a659-4d5bd4490317)
+
+
+
  
  
